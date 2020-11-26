@@ -39,8 +39,8 @@
     "transactions": [
         {
             "from": "",
-            "data_of_transaction": "",
-            "amount_send": 0,
+            "date": "",
+            "amount": 0,
             "type": "",
             "currency": "",
             "recipient": ""
