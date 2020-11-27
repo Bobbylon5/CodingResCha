@@ -38,12 +38,12 @@
     ],
     "transactions": [
         {
-            "from": "",
-            "date": "",
+            "from": "A",
+            "date": "A",
             "amount": 0,
-            "type": "",
-            "currency": "",
-            "recipient": ""
+            "type": "A",
+            "currency": "A",
+            "recipient": "A"
         }
     ]
 }
