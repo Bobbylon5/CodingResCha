@@ -36,14 +36,55 @@
             "currency": "GBP"
         }
     ],
+    
     "transactions": [
         {
-            "from": "A",
-            "date": "A",
-            "amount": 0,
-            "type": "A",
-            "currency": "A",
-            "recipient": "A"
+            "from": "Unknown",
+            "date": "past",
+            "amount": 100.00,
+            "type": "current",
+            "recipient": "NL25 TRIO 0253 8443 20",
+            "currency": "USD"
+        },
+        {
+            "from": "NL25 TRIO 0253 8443 20",
+            "date": "past",
+            "amount": 150.00,
+            "type": "loan",
+            "recipient": "NL25 TRIO 0253 8443 20"
+            "currency": "GBP"
+        },
+        {
+            "from": "NL25 TRIO 0253 8443 20",
+            "date": "past",
+            "amount": 210.47,
+            "type": "term",
+            "recipient": "NL81 TRIO 0212 4710 66"
+            "currency": "GBP"
+        },
+        {
+            "from": "NL25 TRIO 0253 8443 20",
+            "date": "past",
+            "amount": 10.00,
+            "type": "loan",
+            "from": "NL25 TRIO 0253 8443 20",
+            "currency": "GBP"
+        },
+        {
+            "from": "Unknown",
+            "date": "past",
+            "amount": 1500.20,
+            "type": "current",
+            "recipient": "NL25 TRIO 0269 8445 60",
+            "currency": "USD"
+        },
+        {
+            "from": "Unknown",
+            "date": "pending",
+            "amount": 1000.00,
+            "type": "savings",
+            "recipient": "NL81 TRIO 0212  4710 66",
+            "currency": "GBP",
         }
     ]
 }
