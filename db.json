@@ -51,7 +51,7 @@
             "date": "past",
             "amount": 150.00,
             "type": "loan",
-            "recipient": "NL25 TRIO 0253 8443 20"
+            "recipient": "NL25 TRIO 0253 8443 20",
             "currency": "GBP"
         },
         {
@@ -59,7 +59,7 @@
             "date": "past",
             "amount": 210.47,
             "type": "term",
-            "recipient": "NL81 TRIO 0212 4710 66"
+            "recipient": "NL81 TRIO 0212 4710 66",
             "currency": "GBP"
         },
         {
