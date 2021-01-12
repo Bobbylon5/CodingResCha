@@ -67,7 +67,7 @@
             "date": "past",
             "amount": 10.00,
             "type": "loan",
-            "from": "NL25 TRIO 0253 8443 20",
+            "recipient": "NL25 TRIO 0253 8443 20",
             "currency": "GBP"
         },
         {
